@@ -1,0 +1,19 @@
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\bin\Debug\CompSciFractalSummative.exe.config
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\bin\Debug\CompSciFractalSummative.exe
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\bin\Debug\CompSciFractalSummative.pdb
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.csprojResolveAssemblyReference.cache
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.Form1.resources
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.Properties.Resources.resources
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.csproj.GenerateResource.Cache
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.exe
+\\2522-CMS-01\2522 Students$\567896\Profile\Desktop\ComputerScience\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.pdb
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.Form1.resources
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.Properties.Resources.resources
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.csproj.GenerateResource.Cache
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.csproj.CoreCompileInputs.cache
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\bin\Debug\CompSciFractalSummative.exe.config
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\bin\Debug\CompSciFractalSummative.exe
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\bin\Debug\CompSciFractalSummative.pdb
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.csprojResolveAssemblyReference.cache
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.exe
+D:\Coding\CompSciFractalSummative\CompSciFractalSummative\obj\Debug\CompSciFractalSummative.pdb
